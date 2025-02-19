@@ -7,3 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+Tham khảo:
+https://viblo.asia/p/bien-ung-dung-laravel-cua-ban-tro-nen-phuc-tap-hon-voi-grpc-gGJ59GMpZX2
+
+https://viblo.asia/p/bien-ung-dung-laravel-cua-ban-tro-nen-phuc-tap-hon-voi-grpc-phan-2-gGJ59G6jZX2
